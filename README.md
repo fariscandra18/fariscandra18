@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pariscandra.wixsite.com/fariscandraportfolio](https://pariscandra.wixsite.com/fariscandraportfolio)
 
-- 💬 Ask me about **Android | Flutter | UI Design | Figma**
+- 💬 Ask me about **Web Developer | Flutter | UI Design | Figma**
 
 - 📫 How to reach me **pariscandra@gmail.com**
 
