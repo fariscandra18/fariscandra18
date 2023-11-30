@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariscandra18&label=Profile%20views&color=0e75b6&style=flat" alt="fariscandra18" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Frontend Web**
 
 - 👨‍💻 All of my projects are available at [https://pariscandra.wixsite.com/fariscandraportfolio](https://pariscandra.wixsite.com/fariscandraportfolio)
 
